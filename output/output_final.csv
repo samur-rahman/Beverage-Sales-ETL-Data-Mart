@@ -1,0 +1,226 @@
+Last_Name,First_Name,Year,Category,Product,Country,Region,State,Weight,Volume,Caffeine,Per_Unit_Price,Quantity_Sum,Revenue_Quantity_Sum
+Jackson,Buford,2021,"Maple Drinks","Maple Mash UP",USA,Northeast,Massachusetts,794,502,NULL,1098.00,117,128466.00
+Jackson,Buford,2021,"Maple Drinks","Maple Mash UP",USA,Northeast,"Rhode Island",794,502,NULL,1098.00,82,90036.00
+Jackson,Buford,2021,"Maple Drinks","Maple Mash UP",USA,Northeast,Vermont,794,502,NULL,1098.00,79,86742.00
+Jackson,Buford,2021,"Maple Drinks","Maple Mash UP",USA,Northeast,"New Hampshire",794,502,NULL,1098.00,75,82350.00
+Jackson,Buford,2021,"Maple Drinks","Maple Mash UP",USA,Northeast,Maine,794,502,NULL,1098.00,36,39528.00
+Jackson,Buford,2021,"Maple Drinks",Sapped,USA,Northeast,"Rhode Island",632,374,NULL,932.00,46,42872.00
+Jackson,Buford,2021,"Maple Drinks",Sapped,USA,Northeast,Vermont,632,374,NULL,932.00,37,34484.00
+Jackson,Buford,2021,"Maple Drinks",Sapped,USA,Northeast,Massachusetts,632,374,NULL,932.00,33,30756.00
+Jackson,Buford,2021,"Maple Drinks",Sapped,USA,Northeast,"New Hampshire",632,374,NULL,932.00,33,30756.00
+Jackson,Buford,2021,Mocktails,"Enchanted Euphoria",USA,Northeast,Vermont,303,284,NULL,364.00,73,26572.00
+Jackson,Buford,2021,Mocktails,"Enchanted Euphoria",USA,South,Louisiana,303,284,NULL,364.00,133,48412.00
+Jackson,Buford,2021,Mocktails,"Enchanted Euphoria",USA,South,Kentucky,303,284,NULL,364.00,53,19292.00
+Jackson,Buford,2021,Mocktails,"Enchanted Euphoria",USA,West,Oregon,303,284,NULL,364.00,73,26572.00
+Jackson,Buford,2021,Mocktails,"Secret Synergy",USA,South,Mississippi,312,479,NULL,523.00,51,26673.00
+Jackson,Buford,2021,Mocktails,"Secret Synergy",USA,West,California,312,479,NULL,523.00,22,11506.00
+Jackson,Buford,2021,"Soft Drinks","Dreamy Droplets",USA,Midwest,Nebraska,330,356,NULL,347.00,48,16656.00
+Jackson,Buford,2021,"Soft Drinks","Dreamy Droplets",USA,Midwest,Illinois,330,356,NULL,347.00,45,15615.00
+Jackson,Buford,2021,"Soft Drinks","Dreamy Droplets",USA,South,Kentucky,330,356,NULL,347.00,38,13186.00
+Jackson,Buford,2021,"Soft Drinks","Dreamy Droplets",USA,South,Florida,330,356,NULL,347.00,23,7981.00
+Jackson,Buford,2021,"Soft Drinks","Dreamy Droplets",USA,West,California,330,356,NULL,347.00,14,4858.00
+Jackson,Buford,2021,"Soft Drinks","Sparkle Splash",USA,Midwest,Wisconsin,267,492,NULL,311.00,91,28301.00
+Jackson,Buford,2022,Mocktails,"Enchanted Euphoria",USA,South,"South Carolina",303,284,83,364.00,121,44044.00
+Jackson,Buford,2022,Mocktails,"Enchanted Euphoria",USA,South,Maryland,303,284,83,364.00,98,35672.00
+Jackson,Buford,2022,Mocktails,"Enchanted Euphoria",USA,South,"North Carolina",303,284,83,364.00,84,30576.00
+Jackson,Buford,2022,Mocktails,"Enchanted Euphoria",USA,South,Louisiana,303,284,83,364.00,77,28028.00
+Jackson,Buford,2022,Mocktails,"Enchanted Euphoria",USA,South,Arkansas,303,284,83,364.00,51,18564.00
+Jackson,Buford,2022,Mocktails,"Enchanted Euphoria",USA,South,Kentucky,303,284,83,364.00,2,728.00
+Jackson,Buford,2022,Mocktails,"Enchanted Euphoria",USA,West,Washington,303,284,83,364.00,84,30576.00
+Jackson,Buford,2022,Mocktails,"Secret Synergy",USA,Midwest,Kansas,312,479,40,523.00,92,48116.00
+Jackson,Buford,2022,Mocktails,"Secret Synergy",USA,Midwest,Missouri,312,479,40,523.00,48,25104.00
+Jackson,Buford,2022,Mocktails,"Secret Synergy",USA,Midwest,Iowa,312,479,40,523.00,33,17259.00
+Jackson,Buford,2022,Mocktails,"Secret Synergy",USA,Northeast,Vermont,312,479,40,523.00,62,32426.00
+Jackson,Buford,2022,Mocktails,"Secret Synergy",USA,South,Alabama,312,479,40,523.00,93,48639.00
+Jackson,Buford,2022,Mocktails,"Secret Synergy",USA,South,"North Carolina",312,479,40,523.00,85,44455.00
+Jackson,Buford,2022,Mocktails,"Secret Synergy",USA,South,Louisiana,312,479,40,523.00,27,14121.00
+Jackson,Buford,2022,Mocktails,"Secret Synergy",USA,South,Arkansas,312,479,40,523.00,11,5753.00
+Jackson,Buford,2022,"Soft Drinks","Dreamy Droplets",USA,Midwest,Illinois,330,356,106,347.00,61,21167.00
+Jackson,Buford,2022,"Soft Drinks","Dreamy Droplets",USA,South,Alabama,330,356,106,347.00,35,12145.00
+Jackson,Buford,2022,"Soft Drinks","Dreamy Droplets",USA,West,Hawaii,330,356,106,347.00,64,22208.00
+Jackson,Buford,2022,"Soft Drinks","Dreamy Droplets",USA,West,"New Mexico",330,356,106,347.00,14,4858.00
+Jackson,Buford,2022,"Soft Drinks","Frosted Flare",USA,Midwest,Minnesota,286,407,16,559.00,20,11180.00
+Jackson,Buford,2022,"Soft Drinks","Frosted Flare",USA,Northeast,"New Jersey",286,407,16,559.00,91,50869.00
+Jackson,Buford,2022,"Soft Drinks","Frosted Flare",USA,South,Texas,286,407,16,559.00,58,32422.00
+Jackson,Buford,2022,"Soft Drinks","Frosted Flare",USA,South,"North Carolina",286,407,16,559.00,13,7267.00
+Jackson,Buford,2022,"Soft Drinks","Frosted Flare",USA,South,"South Carolina",286,407,16,559.00,1,559.00
+Jackson,Buford,2022,"Soft Drinks","Frosted Flare",USA,West,Colorado,286,407,16,559.00,67,37453.00
+Jackson,Buford,2022,"Soft Drinks","Frosted Flare",USA,West,Arizona,286,407,16,559.00,10,5590.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,Midwest,Ohio,267,492,111,311.00,119,37009.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,Midwest,Minnesota,267,492,111,311.00,70,21770.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,Northeast,"New Jersey",267,492,111,311.00,132,41052.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,Northeast,Connecticut,267,492,111,311.00,66,20526.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,South,"North Carolina",267,492,111,311.00,99,30789.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,South,Mississippi,267,492,111,311.00,83,25813.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,West,Wyoming,267,492,111,311.00,71,22081.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,West,Utah,267,492,111,311.00,50,15550.00
+Jackson,Buford,2022,"Soft Drinks","Sparkle Splash",USA,West,Alaska,267,492,111,311.00,27,8397.00
+Jackson,Buford,2023,Mocktails,"Enchanted Euphoria",USA,Midwest,Nebraska,303,284,83,364.00,70,25480.00
+Jackson,Buford,2023,Mocktails,"Enchanted Euphoria",USA,South,Maryland,303,284,83,364.00,19,6916.00
+Jackson,Buford,2023,Mocktails,"Enchanted Euphoria",USA,South,Louisiana,303,284,83,364.00,11,4004.00
+Jackson,Buford,2023,Mocktails,"Secret Synergy",USA,Midwest,Iowa,312,479,40,523.00,68,35564.00
+Jackson,Buford,2023,Mocktails,"Secret Synergy",USA,South,Florida,312,479,40,523.00,53,27719.00
+Jackson,Buford,2023,Mocktails,"Secret Synergy",USA,South,Virginia,312,479,40,523.00,1,523.00
+Jackson,Buford,2023,Mocktails,"Secret Synergy",USA,West,Oregon,312,479,40,523.00,21,10983.00
+Jackson,Buford,2023,"Soft Drinks","Dreamy Droplets",USA,Midwest,"South Dakota",330,356,106,347.00,55,19085.00
+Jackson,Buford,2023,"Soft Drinks","Dreamy Droplets",USA,South,Maryland,330,356,106,347.00,94,32618.00
+Jackson,Buford,2023,"Soft Drinks","Dreamy Droplets",USA,West,California,330,356,106,347.00,50,17350.00
+Jackson,Buford,2023,"Soft Drinks","Dreamy Droplets",USA,West,Oregon,330,356,106,347.00,46,15962.00
+Jackson,Buford,2023,"Soft Drinks","Frosted Flare",USA,Midwest,Minnesota,286,407,16,559.00,59,32981.00
+Jackson,Buford,2023,"Soft Drinks","Frosted Flare",USA,Northeast,Connecticut,286,407,16,559.00,97,54223.00
+Jackson,Buford,2023,"Soft Drinks","Frosted Flare",USA,South,Delaware,286,407,16,559.00,91,50869.00
+Jackson,Buford,2023,"Soft Drinks","Frosted Flare",USA,South,"South Carolina",286,407,16,559.00,48,26832.00
+Jackson,Buford,2023,"Soft Drinks","Frosted Flare",USA,South,Florida,286,407,16,559.00,44,24596.00
+Jackson,Buford,2023,"Soft Drinks","Frosted Flare",USA,South,Kentucky,286,407,16,559.00,19,10621.00
+Jackson,Buford,2023,"Soft Drinks","Frosted Flare",USA,South,Oklahoma,286,407,16,559.00,9,5031.00
+Jackson,Buford,2023,"Soft Drinks","Frosted Flare",USA,West,Wyoming,286,407,16,559.00,53,29627.00
+Jackson,Buford,2023,"Soft Drinks","Sparkle Splash",USA,Midwest,Wisconsin,267,492,111,311.00,64,19904.00
+Jackson,Buford,2023,"Soft Drinks","Sparkle Splash",USA,Northeast,Connecticut,267,492,111,311.00,94,29234.00
+Jackson,Buford,2023,"Soft Drinks","Sparkle Splash",USA,Northeast,Maine,267,492,111,311.00,87,27057.00
+Jackson,Buford,2023,"Soft Drinks","Sparkle Splash",USA,Northeast,Massachusetts,267,492,111,311.00,80,24880.00
+Jackson,Buford,2023,"Soft Drinks","Sparkle Splash",USA,South,Virginia,267,492,111,311.00,24,7464.00
+Jackson,Buford,2023,"Soft Drinks","Sparkle Splash",USA,West,Alaska,267,492,111,311.00,37,11507.00
+Olson,Remi,2021,"Hot Beverages","Electric Elixir",USA,Midwest,Michigan,406,374,NULL,367.00,6,2202.00
+Olson,Remi,2021,"Hot Beverages","Electric Elixir",USA,South,Alabama,406,374,NULL,367.00,60,22020.00
+Olson,Remi,2021,"Iced Teas","Moonbeam Brew",USA,Midwest,"South Dakota",394,361,NULL,655.00,31,20305.00
+Olson,Remi,2021,"Iced Teas","Moonbeam Brew",USA,Midwest,Kansas,394,361,NULL,655.00,30,19650.00
+Olson,Remi,2021,"Iced Teas","Moonbeam Brew",USA,Northeast,"New Jersey",394,361,NULL,655.00,55,36025.00
+Olson,Remi,2021,"Iced Teas","Moonbeam Brew",USA,Northeast,Massachusetts,394,361,NULL,655.00,26,17030.00
+Olson,Remi,2021,"Iced Teas","Moonbeam Brew",USA,South,Maryland,394,361,NULL,655.00,74,48470.00
+Olson,Remi,2021,"Iced Teas","Moonbeam Brew",USA,South,Texas,394,361,NULL,655.00,69,45195.00
+Olson,Remi,2021,Smoothies,"Blissful Bubbles",USA,South,"West Virginia",342,479,NULL,355.00,36,12780.00
+Olson,Remi,2021,Smoothies,"Blissful Bubbles",USA,West,Oregon,342,479,NULL,355.00,7,2485.00
+Olson,Remi,2021,"Vitamin Drinks","Berry Blush",USA,Midwest,Indiana,276,281,NULL,622.00,77,47894.00
+Olson,Remi,2021,"Vitamin Drinks","Berry Blush",USA,Northeast,Massachusetts,276,281,NULL,622.00,32,19904.00
+Olson,Remi,2021,"Vitamin Drinks","Berry Blush",USA,Northeast,Connecticut,276,281,NULL,622.00,28,17416.00
+Olson,Remi,2021,"Vitamin Drinks","Berry Blush",USA,South,Maryland,276,281,NULL,622.00,43,26746.00
+Olson,Remi,2021,"Vitamin Drinks","Citrus Sizzle",USA,West,Utah,368,267,NULL,457.00,29,13253.00
+Olson,Remi,2021,"Vitamin Drinks","Luminous Liquid",USA,South,Texas,238,227,NULL,364.00,99,36036.00
+Olson,Remi,2021,"Vitamin Drinks","Luminous Liquid",USA,South,Oklahoma,238,227,NULL,364.00,94,34216.00
+Olson,Remi,2021,"Vitamin Drinks","Luminous Liquid",USA,South,Florida,238,227,NULL,364.00,45,16380.00
+Olson,Remi,2021,"Vitamin Drinks","Luminous Liquid",USA,South,"South Carolina",238,227,NULL,364.00,34,12376.00
+Olson,Remi,2022,"Hot Beverages","Eggs Benedict Expresso",USA,Midwest,Indiana,288,204,204,834.00,93,77562.00
+Olson,Remi,2022,"Hot Beverages","Eggs Benedict Expresso",USA,Midwest,Ohio,288,204,204,834.00,37,30858.00
+Olson,Remi,2022,"Hot Beverages","Eggs Benedict Expresso",USA,South,Virginia,288,204,204,834.00,99,82566.00
+Olson,Remi,2022,"Hot Beverages","Eggs Benedict Expresso",USA,South,Oklahoma,288,204,204,834.00,50,41700.00
+Olson,Remi,2022,"Hot Beverages","Eggs Benedict Expresso",USA,West,Utah,288,204,204,834.00,93,77562.00
+Olson,Remi,2022,"Hot Beverages","Eggs Benedict Expresso",USA,West,Idaho,288,204,204,834.00,8,6672.00
+Olson,Remi,2022,"Hot Beverages","Electric Elixir",USA,Midwest,Indiana,406,374,120,367.00,75,27525.00
+Olson,Remi,2022,"Hot Beverages","Electric Elixir",USA,South,Delaware,406,374,120,367.00,74,27158.00
+Olson,Remi,2022,"Hot Beverages","Electric Elixir",USA,South,Alabama,406,374,120,367.00,31,11377.00
+Olson,Remi,2022,"Hot Beverages","Electric Elixir",USA,South,"North Carolina",406,374,120,367.00,9,3303.00
+Olson,Remi,2022,"Hot Beverages","Electric Elixir",USA,South,"West Virginia",406,374,120,367.00,4,1468.00
+Olson,Remi,2022,"Hot Beverages","Electric Elixir",USA,West,"New Mexico",406,374,120,367.00,1,367.00
+Olson,Remi,2022,"Hot Beverages","Pecan Pie Latte",USA,Midwest,Kansas,354,358,155,496.00,60,29760.00
+Olson,Remi,2022,"Hot Beverages","Pecan Pie Latte",USA,Midwest,Michigan,354,358,155,496.00,41,20336.00
+Olson,Remi,2022,"Hot Beverages","Pecan Pie Latte",USA,Northeast,Maine,354,358,155,496.00,107,53072.00
+Olson,Remi,2022,"Hot Beverages","Pecan Pie Latte",USA,Northeast,"Rhode Island",354,358,155,496.00,85,42160.00
+Olson,Remi,2022,"Hot Beverages","Pecan Pie Latte",USA,Northeast,"New york",354,358,155,496.00,68,33728.00
+Olson,Remi,2022,"Hot Beverages","Pecan Pie Latte",USA,South,Delaware,354,358,155,496.00,57,28272.00
+Olson,Remi,2022,"Hot Beverages","Pecan Pie Latte",USA,West,Wyoming,354,358,155,496.00,73,36208.00
+Olson,Remi,2022,"Hot Beverages","Pecan Pie Latte",USA,West,Oregon,354,358,155,496.00,46,22816.00
+Olson,Remi,2022,"Iced Teas","Moonbeam Brew",USA,South,Texas,394,361,124,655.00,93,60915.00
+Olson,Remi,2022,"Iced Teas","Moonbeam Brew",USA,South,Louisiana,394,361,124,655.00,14,9170.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,Midwest,"North Dakota",419,379,129,870.00,49,42630.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,Midwest,Illinois,419,379,129,870.00,31,26970.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,Northeast,"New Jersey",419,379,129,870.00,99,86130.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,Northeast,Maine,419,379,129,870.00,14,12180.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,South,Georgia,419,379,129,870.00,57,49590.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,South,"North Carolina",419,379,129,870.00,47,40890.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,South,Maryland,419,379,129,870.00,7,6090.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,West,Montana,419,379,129,870.00,51,44370.00
+Olson,Remi,2022,"Iced Teas","Mystic Mist",USA,West,Idaho,419,379,129,870.00,31,26970.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,Midwest,Kansas,342,479,40,355.00,90,31950.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,Midwest,Indiana,342,479,40,355.00,61,21655.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,Midwest,Iowa,342,479,40,355.00,57,20235.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,Midwest,Missouri,342,479,40,355.00,23,8165.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,Midwest,Wisconsin,342,479,40,355.00,17,6035.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,Northeast,Massachusetts,342,479,40,355.00,70,24850.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,Northeast,Maine,342,479,40,355.00,11,3905.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,South,Maryland,342,479,40,355.00,151,53605.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,South,Louisiana,342,479,40,355.00,81,28755.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,South,"North Carolina",342,479,40,355.00,38,13490.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,South,Kentucky,342,479,40,355.00,5,1775.00
+Olson,Remi,2022,Smoothies,"Blissful Bubbles",USA,West,Idaho,342,479,40,355.00,44,15620.00
+Olson,Remi,2022,Smoothies,"Pancake Flip Frappe",USA,Midwest,Nebraska,486,371,27,477.00,8,3816.00
+Olson,Remi,2022,Smoothies,"Pancake Flip Frappe",USA,Northeast,Connecticut,486,371,27,477.00,3,1431.00
+Olson,Remi,2022,Smoothies,"Pancake Flip Frappe",USA,South,Arkansas,486,371,27,477.00,79,37683.00
+Olson,Remi,2022,Smoothies,"Pancake Flip Frappe",USA,South,Louisiana,486,371,27,477.00,16,7632.00
+Olson,Remi,2022,"Vitamin Drinks","Berry Blush",USA,Midwest,Missouri,276,281,122,622.00,13,8086.00
+Olson,Remi,2022,"Vitamin Drinks","Berry Blush",USA,Midwest,"North Dakota",276,281,122,622.00,3,1866.00
+Olson,Remi,2022,"Vitamin Drinks","Berry Blush",USA,Northeast,Maine,276,281,122,622.00,49,30478.00
+Olson,Remi,2022,"Vitamin Drinks","Berry Blush",USA,South,Louisiana,276,281,122,622.00,68,42296.00
+Olson,Remi,2022,"Vitamin Drinks","Berry Blush",USA,South,Virginia,276,281,122,622.00,55,34210.00
+Olson,Remi,2022,"Vitamin Drinks","Berry Blush",USA,South,"North Carolina",276,281,122,622.00,25,15550.00
+Olson,Remi,2022,"Vitamin Drinks","Berry Blush",USA,West,Arizona,276,281,122,622.00,48,29856.00
+Olson,Remi,2022,"Vitamin Drinks","Berry Blush",USA,West,Idaho,276,281,122,622.00,11,6842.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,Midwest,Wisconsin,368,267,39,457.00,76,34732.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,Midwest,Ohio,368,267,39,457.00,62,28334.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,Midwest,Nebraska,368,267,39,457.00,38,17366.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,Midwest,Illinois,368,267,39,457.00,33,15081.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,Midwest,"North Dakota",368,267,39,457.00,13,5941.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,Northeast,"New york",368,267,39,457.00,29,13253.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,Northeast,Maine,368,267,39,457.00,26,11882.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,Northeast,"New Hampshire",368,267,39,457.00,12,5484.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,South,Virginia,368,267,39,457.00,52,23764.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,South,Georgia,368,267,39,457.00,21,9597.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,West,Oregon,368,267,39,457.00,98,44786.00
+Olson,Remi,2022,"Vitamin Drinks","Citrus Sizzle",USA,West,"New Mexico",368,267,39,457.00,11,5027.00
+Olson,Remi,2022,"Vitamin Drinks","Luminous Liquid",USA,Midwest,Michigan,238,227,6,364.00,85,30940.00
+Olson,Remi,2022,"Vitamin Drinks","Luminous Liquid",USA,Midwest,Iowa,238,227,6,364.00,67,24388.00
+Olson,Remi,2022,"Vitamin Drinks","Luminous Liquid",USA,Midwest,Kansas,238,227,6,364.00,54,19656.00
+Olson,Remi,2022,"Vitamin Drinks","Luminous Liquid",USA,Northeast,Vermont,238,227,6,364.00,96,34944.00
+Olson,Remi,2022,"Vitamin Drinks","Luminous Liquid",USA,Northeast,Maine,238,227,6,364.00,37,13468.00
+Olson,Remi,2022,"Vitamin Drinks","Luminous Liquid",USA,West,Hawaii,238,227,6,364.00,25,9100.00
+Olson,Remi,2023,"Hot Beverages","Electric Elixir",USA,Midwest,Wisconsin,406,374,120,367.00,71,26057.00
+Olson,Remi,2023,"Hot Beverages","Electric Elixir",USA,Midwest,Nebraska,406,374,120,367.00,14,5138.00
+Olson,Remi,2023,"Hot Beverages","Electric Elixir",USA,Northeast,"New Hampshire",406,374,120,367.00,99,36333.00
+Olson,Remi,2023,"Hot Beverages","Electric Elixir",USA,Northeast,Massachusetts,406,374,120,367.00,72,26424.00
+Olson,Remi,2023,"Hot Beverages","Electric Elixir",USA,West,"New Mexico",406,374,120,367.00,59,21653.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,Midwest,"North Dakota",394,361,124,655.00,81,53055.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,Midwest,"South Dakota",394,361,124,655.00,16,10480.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,Midwest,Iowa,394,361,124,655.00,3,1965.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,South,Delaware,394,361,124,655.00,78,51090.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,South,Mississippi,394,361,124,655.00,34,22270.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,West,Colorado,394,361,124,655.00,77,50435.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,West,Arizona,394,361,124,655.00,59,38645.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,West,"New Mexico",394,361,124,655.00,31,20305.00
+Olson,Remi,2023,"Iced Teas","Moonbeam Brew",USA,West,California,394,361,124,655.00,19,12445.00
+Olson,Remi,2023,"Iced Teas","Mystic Mist",USA,Northeast,"Rhode Island",419,379,129,870.00,70,60900.00
+Olson,Remi,2023,"Iced Teas","Mystic Mist",USA,Northeast,"New Hampshire",419,379,129,870.00,68,59160.00
+Olson,Remi,2023,"Iced Teas","Mystic Mist",USA,South,"North Carolina",419,379,129,870.00,82,71340.00
+Olson,Remi,2023,"Iced Teas","Mystic Mist",USA,South,Georgia,419,379,129,870.00,5,4350.00
+Olson,Remi,2023,"Iced Teas","Mystic Mist",USA,West,Idaho,419,379,129,870.00,30,26100.00
+Olson,Remi,2023,Smoothies,"Blissful Bubbles",USA,Midwest,Minnesota,342,479,40,355.00,97,34435.00
+Olson,Remi,2023,Smoothies,"Blissful Bubbles",USA,South,Florida,342,479,40,355.00,99,35145.00
+Olson,Remi,2023,Smoothies,"Blissful Bubbles",USA,South,Texas,342,479,40,355.00,7,2485.00
+Olson,Remi,2023,Smoothies,"Blissful Bubbles",USA,West,Montana,342,479,40,355.00,75,26625.00
+Olson,Remi,2023,Smoothies,"Blissful Bubbles",USA,West,Colorado,342,479,40,355.00,61,21655.00
+Olson,Remi,2023,"Vitamin Drinks","Berry Blush",USA,Midwest,Minnesota,276,281,122,622.00,94,58468.00
+Olson,Remi,2023,"Vitamin Drinks","Berry Blush",USA,Midwest,Illinois,276,281,122,622.00,7,4354.00
+Olson,Remi,2023,"Vitamin Drinks","Berry Blush",USA,Northeast,Massachusetts,276,281,122,622.00,57,35454.00
+Olson,Remi,2023,"Vitamin Drinks","Berry Blush",USA,South,Louisiana,276,281,122,622.00,95,59090.00
+Olson,Remi,2023,"Vitamin Drinks","Berry Blush",USA,West,Montana,276,281,122,622.00,64,39808.00
+Olson,Remi,2023,"Vitamin Drinks","Citrus Sizzle",USA,Midwest,Indiana,368,267,39,457.00,32,14624.00
+Olson,Remi,2023,"Vitamin Drinks","Citrus Sizzle",USA,South,Arkansas,368,267,39,457.00,82,37474.00
+Olson,Remi,2023,"Vitamin Drinks","Citrus Sizzle",USA,South,"South Carolina",368,267,39,457.00,78,35646.00
+Olson,Remi,2023,"Vitamin Drinks","Citrus Sizzle",USA,West,Hawaii,368,267,39,457.00,84,38388.00
+Olson,Remi,2023,"Vitamin Drinks","Citrus Sizzle",USA,West,"New Mexico",368,267,39,457.00,74,33818.00
+Olson,Remi,2023,"Vitamin Drinks","Luminous Liquid",USA,Midwest,Michigan,238,227,6,364.00,61,22204.00
+Olson,Remi,2023,"Vitamin Drinks","Luminous Liquid",USA,South,Alabama,238,227,6,364.00,33,12012.00
+Walsh,Rowan,2021,Juices,"Frosty Fizz",USA,Midwest,"North Dakota",314,434,NULL,717.00,28,20076.00
+Walsh,Rowan,2021,Juices,"Frosty Fizz",USA,Northeast,"Rhode Island",314,434,NULL,717.00,97,69549.00
+Walsh,Rowan,2022,Juices,"Frosty Fizz",USA,Northeast,Maine,314,434,7,717.00,18,12906.00
+Walsh,Rowan,2022,Juices,"Frosty Fizz",USA,South,"North Carolina",314,434,7,717.00,52,37284.00
+Walsh,Rowan,2022,Juices,"Frosty Fizz",USA,South,"South Carolina",314,434,7,717.00,46,32982.00
+Walsh,Rowan,2022,Juices,"Frosty Fizz",USA,South,Florida,314,434,7,717.00,44,31548.00
+Walsh,Rowan,2022,Juices,"Frosty Fizz",USA,South,Maryland,314,434,7,717.00,31,22227.00
+Walsh,Rowan,2022,Juices,"Frosty Fizz",USA,South,"West Virginia",314,434,7,717.00,13,9321.00
+Walsh,Rowan,2022,Juices,"Frosty Fizz",USA,South,Kentucky,314,434,7,717.00,7,5019.00
+Walsh,Rowan,2023,Juices,"Frosty Fizz",USA,Midwest,Missouri,314,434,7,717.00,36,25812.00
+Walsh,Rowan,2023,Juices,"Frosty Fizz",USA,South,Alabama,314,434,7,717.00,86,61662.00
+Walsh,Rowan,2023,Juices,"Frosty Fizz",USA,South,Tennessee,314,434,7,717.00,67,48039.00
+Walsh,Rowan,2023,Juices,"Frosty Fizz",USA,South,Kentucky,314,434,7,717.00,23,16491.00
+Walsh,Rowan,2023,Juices,"Frosty Fizz",USA,West,Alaska,314,434,7,717.00,93,66681.00
+Walsh,Rowan,2023,Juices,"Frosty Fizz",USA,West,Oregon,314,434,7,717.00,76,54492.00
+Walsh,Rowan,2023,Juices,"Frosty Fizz",USA,West,Arizona,314,434,7,717.00,14,10038.00
