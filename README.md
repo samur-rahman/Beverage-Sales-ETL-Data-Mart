@@ -16,24 +16,26 @@ The goal was to standardize inconsistent datasets, compute key business metrics,
 
 ## 📂 Project Structure
 
+```
 beverage-sales-etl-data-mart/
 │
 ├── data/
-│ ├── Beverage_orders_2021.csv
-│ ├── Beverage_orders_2022.csv
-│ ├── Beverage_orders_2023.csv
+│   ├── Beverage_orders_2021.csv
+│   ├── Beverage_orders_2022.csv
+│   ├── Beverage_orders_2023.csv
 │
 ├── sql/
-│ ├── Beverage_ETL_Script.sql
+│   ├── Beverage_ETL_Script.sql
 │
 ├── output/
-│ ├── output_final.csv
+│   ├── output_final.csv
 │
 ├── docs/
-│ ├── ERD.png
-│ ├── Business Memo and Appendix.pdf
+│   ├── ERD.png
+│   ├── Business Memo and Appendix.pdf
 │
 └── README.md
+```
 
 
 ---
