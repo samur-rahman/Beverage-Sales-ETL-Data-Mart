@@ -1,0 +1,73 @@
+ID,Product,Weight,Volume,Per_Unit_Price,Quantity,Region,State,Country
+1,Health Potion,287,382,554,92,South,Arkansas,USA
+2,Moonbeam Brew,394,361,655,74,South,Maryland,USA
+3,Enchanted Euphoria,303,284,364,53,South,Kentucky,USA
+4,Sapped,632,374,932,33,Northeast,Massachusetts,USA
+5,Dreamy Droplets,330,356,347,23,South,Florida,USA
+6,Health Potion,287,382,554,50,Midwest,Wisconsin,USA
+7,Sapped,632,374,932,37,Northeast,Vermont,USA
+8,Maple Mash UP,794,502,1098,27,Northeast,Rhode Island,USA
+9,Velvet Vortex,384,373,527,90,Midwest,North Dakota,USA
+10,Electric Elixir,406,374,367,6,Midwest,Michigan,USA
+11,Berry Blush,276,281,622,32,Northeast,Massachusetts,USA
+12,Velvet Vortex,384,373,527,40,Midwest,Ohio,USA
+13,Dreamy Droplets,330,356,347,14,West,California,USA
+14,Moonbeam Brew,394,361,655,26,Northeast,Massachusetts,USA
+15,Cosmic Coolant,353,329,421,75,South,Maryland,USA
+16,Maple Mash UP,794,502,1098,36,Northeast,Maine,USA
+17,Dreamy Droplets,330,356,347,48,Midwest,Nebraska,USA
+18,Frosty Fizz,314,434,717,97,Northeast,Rhode Island,USA
+19,Maple Mash UP,794,502,1098,75,Northeast,New Hampshire,USA
+20,Electric Elixir,406,374,367,60,South,Alabama,USA
+21,Blissful Bubbles,342,479,355,7,West,Oregon,USA
+22,Blissful Bubbles,342,479,355,36,South,West Virginia,USA
+23,Health Potion,287,382,554,4,West,California,USA
+24,Frosty Fizz,314,434,717,28,Midwest,North Dakota,USA
+25,Berry Blush,276,281,622,28,Northeast,Connecticut,USA
+26,Twilight Tonic,493,356,824,76,South,Delaware,USA
+27,Berry Blush,276,281,622,43,South,Maryland,USA
+28,Cosmic Coolant,353,329,421,23,Midwest,South Dakota,USA
+29,Cosmic Coolant,353,329,421,27,West,Idaho,USA
+30,Velvet Vortex,384,373,527,72,South,Mississippi,USA
+31,Twilight Tonic,493,356,824,21,West,Alaska,USA
+32,Dreamy Droplets,330,356,347,45,Midwest,Illinois,USA
+33,Oceanic Oasis,301,484,319,93,South,Tennessee,USA
+34,Luminous Liquid,238,227,364,45,South,Florida,USA
+35,Twilight Tonic,493,356,824,31,South,South Carolina,USA
+36,Velvet Vortex,384,373,527,59,Midwest,Minnesota,USA
+37,Rainbow Rush,464,438,389,60,South,Delaware,USA
+38,Rainbow Rush,464,438,389,51,Northeast,New Jersey,USA
+39,Twilight Tonic,493,356,824,29,West,Montana,USA
+40,Celestial Crush,216,487,618,15,West,New Mexico,USA
+41,Rainbow Rush,464,438,389,41,Northeast,Massachusetts,USA
+42,Celestial Crush,216,487,618,49,Midwest,Nebraska,USA
+43,Enchanted Euphoria,303,284,364,73,West,Oregon,USA
+44,Moonbeam Brew,394,361,655,55,Northeast,New Jersey,USA
+45,Luminous Liquid,238,227,364,99,South,Texas,USA
+46,Enchanted Euphoria,303,284,364,48,South,Louisiana,USA
+47,Secret Synergy,312,479,523,51,South,Mississippi,USA
+48,Citrus Sizzle,368,267,457,29,West,Utah,USA
+49,Luminous Liquid,238,227,364,94,South,Oklahoma,USA
+50,Maple Mash UP,794,502,1098,65,Northeast,Massachusetts,USA
+51,Sparkle Splash,267,492,311,91,Midwest,Wisconsin,USA
+52,Twilight Tonic,493,356,824,71,Midwest,Minnesota,USA
+53,Enchanted Euphoria,303,284,364,73,Northeast,Vermont,USA
+54,Secret Synergy,312,479,523,22,West,California,USA
+55,Moonbeam Brew,394,361,655,31,Midwest,South Dakota,USA
+56,Rainbow Rush,464,438,389,12,South,Georgia,USA
+57,Sapped,632,374,932,33,Northeast,New Hampshire,USA
+58,Rainbow Rush,464,438,389,31,South,Florida,USA
+59,Moonbeam Brew,394,361,655,30,Midwest,Kansas,USA
+60,Celestial Crush,216,487,618,93,Midwest,Nebraska,USA
+61,Velvet Vortex,384,373,527,62,West,Wyoming,USA
+62,Dreamy Droplets,330,356,347,38,South,Kentucky,USA
+63,Twilight Tonic,493,356,824,86,South,Tennessee,USA
+64,Berry Blush,276,281,622,77,Midwest,Indiana,USA
+65,Maple Mash UP,794,502,1098,79,Northeast,Vermont,USA
+66,Maple Mash UP,794,502,1098,52,Northeast,Massachusetts,USA
+67,Enchanted Euphoria,303,284,364,85,South,Louisiana,USA
+68,Maple Mash UP,794,502,1098,55,Northeast,Rhode Island,USA
+69,Luminous Liquid,238,227,364,34,South,South Carolina,USA
+70,Moonbeam Brew,394,361,655,69,South,Texas,USA
+71,Celestial Crush,216,487,618,17,West,Montana,USA
+72,Sapped,632,374,932,46,Northeast,Rhode Island,USA
